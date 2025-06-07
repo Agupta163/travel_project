@@ -4,8 +4,6 @@ A simple, static travel website built using **HTML**, **CSS**, and **JavaScript*
 
 🌐 **Live Demo:** [akg-travel-project.netlify.app](https://akg-travel-project.netlify.app/)
 
-![Website Preview](./preview.png) <!-- Replace with an actual screenshot if available -->
-
 ---
 
 ## 📄 Pages Included
